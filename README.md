@@ -166,5 +166,5 @@ This gives users a more relevant and diverse recommendation experience.
 
 ## Project Goal
 
-This project demonstrates how machine learning, movie metadata APIs, and web application development can be combined to build a modern recommendation system with a practical user interface.
+This project demonstrates how machine learning, movie metadata APIs, and web application development can be combined to build a modern recommendation system with a practical user interface.  
 
