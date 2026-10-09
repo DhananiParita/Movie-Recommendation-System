@@ -1,5 +1,7 @@
 # Movie Recommendation System
 
+https://movie-recommendation-system2211.streamlit.app/
+
 A full-stack movie recommendation application that combines TMDB movie metadata with a TF-IDF similarity model to suggest movies based on content similarity and genre preference.
 
 The project includes:
